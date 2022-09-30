@@ -1,0 +1,35 @@
+{
+  "name": "nextjs-ssr-line-chart",
+  "version": "1.0.0",
+  "description": "Server-side Rendered Svg Line Chart",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulieScanlon/nextjs-ssr-line-chart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulieScanlon/nextjs-ssr-line-chart/issues"
+  },
+  "homepage": "https://github.com/PaulieScanlon/nextjs-ssr-line-chart#readme",
+  "dependencies": {
+    "next": "^12.3.1",
+    "octokit": "^2.0.7",
+    "react": "^17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.7",
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.17",
+    "prop-types": "^15.8.1",
+    "tailwindcss": "^3.1.8"
+  }
+}
